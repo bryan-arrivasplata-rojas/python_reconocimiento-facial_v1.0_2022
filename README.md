@@ -17,5 +17,5 @@ Paso 2: Ejecutar en el siguiente orden:
 * py reconocer.py
 
 # Ubicación al ejecutar reconocer
-### Fotos: Se encuentra carpeta con el nombre que puso al abrir capturar
-### Modelos: Se encuentra el modelo para que puedan reconocer al abrir entrenar
+* Fotos: Se encuentra carpeta con el nombre que puso al abrir capturar
+* Modelos: Se encuentra el modelo para que puedan reconocer al abrir entrenar
