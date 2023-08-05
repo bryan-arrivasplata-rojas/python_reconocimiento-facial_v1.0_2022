@@ -9,7 +9,7 @@ Reconocimiento Facial con python
 * Año de lanzamiento: 2023
 
 # Ejecución
-Paso 1: pip install -r requirements.txt
+Paso 1: pip install -r requeriments.txt
 
 Paso 2: Ejecutar en el siguiente orden:
 * py capturar.py
